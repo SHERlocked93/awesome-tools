@@ -78,3 +78,16 @@
 | GifCam / ScreenToGif | Gif 生成 |
 | Myper Splash         | 壁纸     |
 | Free Download Manage | 下载工具   |
+
+### 2.3 Visual Studio 2022
+
+| plug-in                  | FUNC   |
+|----------------------|--------|
+| ReAttach             | 重新附加进程  |
+| PeasyMotion          | 快速跳转类似于AceJump  |
+| Output enhancer      | 输出框信息着色  |
+| FileEncoding         | 查看文档编码  |
+| Disable Solution Explorer's Nodes  | 隐藏文件旁查看结构的三角形  |
+| Visual Studio Theme Pack  | 主题  |
+| One Dark Pro         | 主题  |
+| Make The Sound       | 编译成功或失败的时候发出声音  |
