@@ -91,3 +91,4 @@
 | Visual Studio Theme Pack  | 主题  |
 | One Dark Pro         | 主题  |
 | Make The Sound       | 编译成功或失败的时候发出声音  |
+| RunAsAdmin       | 使用管理员权限启动VS  |
