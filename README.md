@@ -92,3 +92,13 @@
 | One Dark Pro         | 主题  |
 | Make The Sound       | 编译成功或失败的时候发出声音  |
 | RunAsAdmin       | 使用管理员权限启动VS  |
+
+
+## 3. Ubuntu
+
+### 3.1 工具
+
+| APP                  | FUNC   |
+|----------------------|--------|
+| guake              | 方便呼出终端的应用  |
+
