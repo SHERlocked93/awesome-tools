@@ -122,3 +122,6 @@
 | FreeFileSync       | 自动同步文件夹 |
 | sshfs              | 在本地机器上挂载远程服务器某个文件夹  |
 
+
+
+> [awesome-mac/README-zh.md at master · jaywcjlove/awesome-mac](https://github.com/jaywcjlove/awesome-mac/blob/master/README-zh.md)
