@@ -36,6 +36,7 @@
 | Synalyze It!                 | 查看二进制数据      |
 | FileZilla for Mac / Transmit | FTP 工具       |
 | ClearviewX / OmniReader      | 阅读器          |
+| [Glim](https://github.com/NeoPanic/Glim) | MIT 开源的多格式文件查看器，支持 Markdown、源码、PDF 和 Office 只读预览，以及普通 UTF-8 文本的基础编辑 |
 | SourceTree                   | Git 可视化管理    |
 
 
